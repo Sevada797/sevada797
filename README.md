@@ -19,7 +19,7 @@
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-%23111111.svg?&logo=HackerOne&logoColor=white)](https://hackerone.com/sevada797)  
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23FF6600.svg?&logo=Bugcrowd&logoColor=white)](https://bugcrowd.com/sevada797)  
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&logo=Medium&logoColor=white)](https://medium.com/@sevada.zatikyan)  
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&logo=Medium&logoColor=white)](https://medium.com/@zatikyan.sevada)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=Instagram&logoColor=white)](https://www.instagram.com/sevada797)  
 
 ---
