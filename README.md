@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/736x/66/29/a1/6629a1d91d3bb3c35ebaee170215bdf3.jpg" width="100" height="100" style="border-radius: 50%;">
 
-# 👾 Dark-Sentinel | sevada797  
+# 👾 Dark-Sentinel | sevada797 - Web Hacker 
 
 **Cybersecurity | Bug Hunting | Automation**  
 
