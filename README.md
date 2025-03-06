@@ -11,6 +11,7 @@
 - 🐍 I automate things with **Python & Bash**
 - 🔥 Passionate about **bug hunting, hacking**
 - 🎯 Constantly learning new tech and improving strategies
+- 🔑 Knowledgeable in **cryptography, networking, hacking tools**
 
 ---
 
@@ -24,17 +25,19 @@
 ---
 
 ### 🔧 Tech Stack:
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?&logo=databricks&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%232E3440.svg?&logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?&logo=databricks&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%232E3440.svg?&logo=gnu-bash&logoColor=white) ![Batch](https://img.shields.io/badge/Batch-%23114874.svg?&logo=windows-terminal&logoColor=white) ![VM](https://img.shields.io/badge/Virtual%20Machines-%230078D7.svg?&logo=vmware&logoColor=white)
 
 ---
 
-### 🔥 Glitch Mode:
-![Glitch GIF](https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif)
+### 🛠️ Hacking Tools:
+- 🕵️‍♂️ **Core Tools:** ffuf, sqlmap, Burp Suite, GoSpider
+- 🔧 **Custom Tools:** <mytools>
 
 ---
 
-### ⚡ Fun Fact:
-> The best exploits are the ones hidden in plain sight 😉
-
+### 🎭 Hobbies:
+- 🎨 Drawing
+- ♟️ Playing Chess
+- 🎥 Watching Anime
 
 ---
