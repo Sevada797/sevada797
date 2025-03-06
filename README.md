@@ -31,7 +31,7 @@
 
 ### 🛠️ Hacking Tools:
 - 🕵️‍♂️ **Core Tools:** ffuf, sqlmap, Burp Suite, GoSpider
-- 🔧 **Custom Tools:** <mytools>
+- 🔧 **Custom Tools:** \<mytools\>
 
 ---
 
