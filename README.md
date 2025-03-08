@@ -30,7 +30,7 @@
 ---
 
 ### 🛠️ Hacking Tools:
-- 🕵️‍♂️ **Core Tools:** ffuf, sqlmap, Burp Suite, GoSpider, waybackurls, amass
+- 🕵️‍♂️ **Core Tools:** ffuf, sqlmap, Burp Suite, GoSpider, waybackurls, amass, nmap, masscan
 - 🔧 **Custom Tools:** \<mytools\>
 
 ---
