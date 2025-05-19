@@ -31,7 +31,7 @@
 ---
 
 ### 🛠️ Hacking Tools:
-- 🕵️‍♂️ **Core Tools:** ffuf, sqlmap, Burp Suite, GoSpider, waybackurls, amass, nmap, masscan, curl, grep, awk and more...
+- 🕵️‍♂️ **Core Tools:** ffuf, sqlmap, Burp Suite, GoSpider, waybackurls, assetfinder, amass, nmap, masscan, curl, grep, awk and more...
 - 🔧 **Custom Tools:** \<mytools\>
 
 ---
