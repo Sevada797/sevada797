@@ -40,7 +40,6 @@
 ---
 
 ### 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=sevada797&show_icons=true&theme=radical" style="width:45%; height: auto" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevada797&layout=compact&theme=radical" style="width:45%; height: auto" />
+<img src="https://github-readme-stats.vercel.app/api?username=sevada797&show_icons=true&theme=radical" style="width:45%; height: auto" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevada797&layout=compact&theme=radical" style="width:45%; height: auto" />
 
 
