@@ -16,13 +16,8 @@
 ---
 
 ### 🕵️‍♂️ Where to Find Me:
-<div style="display:flex">
-[![HackerOne](https://img.shields.io/badge/HackerOne-%23111111.svg?&logo=HackerOne&logoColor=white)](https://hackerone.com/sevada797)  
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23FF6600.svg?&logo=Bugcrowd&logoColor=white)](https://bugcrowd.com/sevada797)  
-[![Standoff365](https://img.shields.io/badge/Standoff365-%230065FF.svg?&logo=target&logoColor=white)](https://standoff365.com/en-US/profile/Myst1cAura0/)  
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&logo=Medium&logoColor=white)](https://medium.com/@zatikyan.sevada)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=Instagram&logoColor=white)](https://www.instagram.com/sevada797)  
-</div>
+[![HackerOne](https://img.shields.io/badge/HackerOne-%23111111.svg?&logo=HackerOne&logoColor=white)](https://hackerone.com/sevada797) [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23FF6600.svg?&logo=Bugcrowd&logoColor=white)](https://bugcrowd.com/sevada797) [![Standoff365](https://img.shields.io/badge/Standoff365-%230065FF.svg?&logo=target&logoColor=white)](https://standoff365.com/en-US/profile/Myst1cAura0/) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&logo=Medium&logoColor=white)](https://medium.com/@zatikyan.sevada) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=Instagram&logoColor=white)](https://www.instagram.com/sevada797)  
+
 ---
 
 ### 🔧 Tech Stack:
@@ -44,8 +39,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<div style="display:flex">
 <img src="https://github-readme-stats.vercel.app/api?username=sevada797&show_icons=true&theme=radical" style="width:45%; height: auto" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevada797&layout=compact&theme=radical" style="width:45%; height: auto" />
-</div>
+
 
