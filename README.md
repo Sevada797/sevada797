@@ -11,7 +11,7 @@
 - 💻 I build websites using **PHP, JavaScript, SQL**
 - 🐍 I automate things with **Python & Bash**
 - 🔥 Passionate about **bug hunting, hacking**
-- 🏆 Achieved **4 valid paid Bug Bounties**
+- 🏆 Achieved **5 valid paid Bug Bounties**
 - 🎯 Constantly learning new tech and improving strategies
 - 🔑 Knowledgeable in **cryptography, networking, hacking tools**
 
