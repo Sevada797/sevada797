@@ -41,7 +41,7 @@
 - 🎨 Drawing
 - ♟️ Playing Chess
 - 🎥 Watching Anime
-
+- 📚 Reading manga/manhwa
 ---
 
 ### 📊 GitHub Stats:
