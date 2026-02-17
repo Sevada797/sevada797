@@ -13,7 +13,7 @@
 - 💻 I build websites using **PHP, JavaScript, SQL**
 - 🐍 I automate things with **Python & Bash**
 - 🔥 Passionate about **bug hunting, hacking**
-- 🏆 Achieved **14+ valid paid Bug Bounties** — **$10K+ in rewards** 💰🐞
+- 🏆 Achieved **16+ valid paid Bug Bounties** — **$10K+ in rewards** 💰🐞
 (especially can feel proud about bugs @ Linkedin, OpenAI, Slack, Yoomoney and Okko top companies)
 - 🎯 Constantly learning new tech and improving strategies
 - 🔑 Knowledgeable in **cryptography, networking, hacking tools**
