@@ -46,8 +46,10 @@
 ---
 
 ### 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=sevada797&show_icons=true&theme=radical" style="width:40%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevada797&layout=compact&theme=radical" style="width:40%" />
+![https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sevada797&theme=radical](https://github-stats-alpha.vercel.app/api?username=sevada797)
+![https://streak-stats.demolab.com/?user=sevada797&theme=radical](https://streak-stats.demolab.com/?user=sevada797&theme=radical)
+![https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sevada797&theme=radical](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sevada797&theme=radical)
+
 
 ## 🔑 PGP Public Key
 
