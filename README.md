@@ -5,7 +5,7 @@
 # 👾 D(ark)-Sentinel | sevada797 - Web Hacker 
 
 **Cybersecurity | Bug Hunting | Automation**  
-**From Armenia 🇦🇲**
+**Armenian Hacker 🇦🇲**
 
 ---
 
