@@ -50,6 +50,15 @@
 ![https://streak-stats.demolab.com/?user=sevada797&theme=radical](https://streak-stats.demolab.com/?user=sevada797&theme=radical)
 ![https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sevada797&theme=radical](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sevada797&theme=radical)
 
+---
+
+### 🐞 CVEs
+
+| CVE ID | Status | Details |
+|--------|--------|---------|
+| [CVE-2026-88963](https://www.cve.org/CVERecord?id=CVE-2026-88963) | 🕓 Reserved | Awaiting publication |
+
+---
 
 ## 🔑 PGP Public Key
 
