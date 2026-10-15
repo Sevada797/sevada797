@@ -56,7 +56,7 @@
 
 | CVE ID | Status | Details |
 |--------|--------|---------|
-| [CVE-2026-88963](https://www.cve.org/CVERecord?id=CVE-2026-88963) | 🕓 Reserved | Awaiting publication |
+| [CVE-2026-88963]([https://www.cve.org/CVERecord?id=CVE-2026-88963](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/tutor/tutor-lms-408-authenticated-subscriber-reflected-dom-based-cross-site-scripting-via-redirect-url-parameter)) | 🕓 Reserved | Awaiting publication |
 
 ---
 
